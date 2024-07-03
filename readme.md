@@ -24,3 +24,7 @@ Day 2 is focused on the Breadth-First Search (BFS) algorithm. It includes an imp
 
 For more details, check out my [blog post for Day 2](https://sammith.hashnode.dev/til-but-from-tweets-2).
 
+### Day 3
+
+Day 3 is focused on Caboose number that I came across while watching a Matt Parker video https://youtu.be/gM5uNcgn2NQ?si=J2DcmFXg-gpB8ctg
+So we are essentially trying to figure out a number for which ```n^2 - n +41``` is a prime number for all n from 0 to n. Of course 0 will work as 41 is a prime number, so we can say 1 to n.
