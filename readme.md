@@ -28,3 +28,12 @@ For more details, check out my [blog post for Day 2](https://sammith.hashnode.de
 
 Day 3 is focused on Caboose number that I came across while watching a Matt Parker video https://youtu.be/gM5uNcgn2NQ?si=J2DcmFXg-gpB8ctg
 So we are essentially trying to figure out a number for which ```n^2 - n +41``` is a prime number for all n from 0 to n. Of course 0 will work as 41 is a prime number, so we can say 1 to n.
+https://hashnode.com/edit/cly38jnmw000b0al68fmm58il
+
+### day 5
+Day 5 is focused on geometric distribution, expected values and how to use this concept to calculate expected encounters needed to catch all the pokemons in the game(with lot of assumptions of course).
+https://hashnode.com/edit/cly61laxc000009l9bjue1h3m
+
+### day 6
+Came across a youtube video that talked about data streams and how to identify distinct values in a data stream with least amount of memory.
+https://sammith.hashnode.dev/til-but-from-youtube-cvm-algorithm
